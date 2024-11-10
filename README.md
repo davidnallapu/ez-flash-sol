@@ -1,4 +1,4 @@
-# Flash Loan Easy Solution
+# Flash Loan EZ with Mango, Jupiter and Raydium
 
 A Solana program demonstrating how to implement flash loans on the Solana blockchain. This program allows users to borrow tokens temporarily within a single transaction, provided they repay the loan amount plus any fees before the transaction completes.
 
