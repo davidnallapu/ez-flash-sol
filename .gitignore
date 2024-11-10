@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Keypair files
+*keypair.json
+*.keypair
+wallet.json
+
+# Added by cargo
+
+/target
+
+*.log
+*.lock
+
+/create-wallet-keypair.js
+/generate-mnemonic.js
